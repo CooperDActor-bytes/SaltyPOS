@@ -3,14 +3,24 @@
 Link Youtube for Installation
 https://youtu.be/LsOF8G-P6Go
 
+```
  `git clone https://github.com/CooperDActor-bytes/SaltyPOS`
-
-1. Composer Install
-2. `cp .env.example .env`
-3. `php artisan key:generate`
-4. `php artisan migrate` (set up database)
-5. `php artisan db:seed`
-
+```
+```
+cd SaltyPOS
+```
+ ```
+cp .env.example .env
+ ```
+```
+php artisan key:generate
+```
+```
+php artisan migrate
+```     
+```
+php artisan db:seed`
+```
 ScreenShot Aplikasi
 
 ![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/1.jpg)
