@@ -3,7 +3,7 @@
 Link Youtube for Installation
 https://youtu.be/LsOF8G-P6Go
 
- `git clone https://github.com/crusherblack/Laravel-POS-Free`
+ `git clone https://github.com/CooperDActor-bytes/SaltyPOS`
 
 1. Composer Install
 2. `cp .env.example .env`
